@@ -1,7 +1,3 @@
-//
-// Created by vasily-sviridov on 24.11.2021.
-//
-
 #ifndef LINKED_LIST_LINKEDLISTNODE_HPP
 #define LINKED_LIST_LINKEDLISTNODE_HPP
 
